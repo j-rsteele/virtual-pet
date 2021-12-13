@@ -40,7 +40,7 @@ namespace VirtualPet
                     health = value;
                 }
             }
-        }
+        } 
         public int Boredom
         {
             get

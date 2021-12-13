@@ -181,6 +181,7 @@ namespace VirtualPet.Tests
 
         [Fact]
         public void Tick_Should_Decrease_Health_By_5()
+
         {
             testPet.Tick();
 
